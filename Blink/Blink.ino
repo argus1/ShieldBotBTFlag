@@ -11,6 +11,8 @@
   https://www.arduino.cc/en/Main/Products
 
   https://www.arduino.cc/en/Tutorial/BuiltInExamples/Blink
+  
+  This snippet was modified from code by S Fitzgerald, A Guadalupi & C Newman
 */
 
 // the setup function runs once when you press reset or power the board
